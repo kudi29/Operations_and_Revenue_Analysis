@@ -52,17 +52,17 @@ substantial revenue while producing relatively low margins or losses.
 
 ### Project at a glance
 
-  Item                           Description
-  ------------------------------ ------------------------------------------
-  Role                           Data Analyst --- end-to-end analysis
-  Business audience              Sales Manager and management team
-  Source                         AdventureWorks sales data
-  Analysis period                July 2017 -- June 2020
-  Fact-table grain               One row per sales order line
-  Database                       PostgreSQL
-  Reporting and semantic model   Power BI
-  Calculations                   DAX
-  Main deliverable               Executive sales and profitability report
+| Item | Description |
+|---|---|
+| Role | Data Analyst — end-to-end analysis |
+| Business audience | Sales Manager and management team |
+| Source | AdventureWorks sales data |
+| Analysis period | July 2017 – June 2020 |
+| Fact-table grain | One row per sales order line |
+| Database | PostgreSQL |
+| Reporting and semantic model | Power BI |
+| Calculations | DAX |
+| Main deliverable | Executive sales and profitability report |
 
 ## Business Problem
 
