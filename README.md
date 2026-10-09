@@ -54,7 +54,7 @@ substantial revenue while producing relatively low margins or losses.
 
 | Item | Description |
 |---|---|
-| Role | Data Analyst — end-to-end analysis |
+| Role | Data Analyst - end-to-end analysis |
 | Business audience | Sales Manager and management team |
 | Source | AdventureWorks sales data |
 | Analysis period | July 2017 – June 2020 |
